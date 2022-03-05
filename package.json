@@ -1,0 +1,11 @@
+{
+  "name": "apibooks",
+  "version": "1.0.0",
+  "description": "api de libros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan José Cabrera Maldonado",
+  "license": "ISC"
+}
